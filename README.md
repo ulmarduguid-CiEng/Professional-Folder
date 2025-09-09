@@ -21,7 +21,7 @@ Currently, I am focusing on building a career as a **BIM Modeling Specialist**, 
 
 ## 📫 Contact
 - 📧 Email: [ulmar.duguid@gmail.com](mailto:ulmar.duguid@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/tu-perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/ulmar-duguid-479ba0382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 🌐 LinkedIn: [linkedin.com/in/tu-perfil]((https://www.linkedin.com/in/ulmar-duguid-479ba0382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - 📄 [Download my CV (PDF)](CV-Mateo_Ulmar_EN.pdf)  
 
 ---
