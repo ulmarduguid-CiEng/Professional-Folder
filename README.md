@@ -1,4 +1,4 @@
-# 🌍 Mateo Ulmar Muñoz – Civil Engineer
+# 🌍 Mateo Ulmar Muñoz Duguid – Civil Engineer
 
 Welcome to my professional portfolio!  
 Here you will find a selection of projects and technical experiences that reflect my skills in **Civil Engineering, GIS, Photogrammetry, LiDAR Data Processing, and BIM**.  
